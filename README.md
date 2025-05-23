@@ -1,6 +1,6 @@
 # GWP-prediction-dataset
 
-This repository contains the input data used to develop deep learning models in the study:
+This repository contains the data used to develop deep learning framework in the study:
 
 **"Deep Learning Framework for Predicting Global Warming Potential Using PCA, Quantile Transformation, and Ensemble Models"** 
 
