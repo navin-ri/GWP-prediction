@@ -4,6 +4,7 @@ This repository contains the input data used to develop deep learning models in 
 
 **"Deep Learning Framework for Predicting Global Warming Potential Using PCA, Quantile Transformation, and Ensemble Models"**  
 *Navin Rajapriya, Kotaro Kawajiri, AIZOTH Inc.*
+![image](https://github.com/user-attachments/assets/2765e5d1-8810-4a16-9947-344bbecc4f4f)
 
 ## Contents
 
