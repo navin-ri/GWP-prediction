@@ -12,7 +12,7 @@ This repository contains the input data used to develop deep learning models in 
   - `rdkit_descriptors.csv`
   - `mordred_descriptors.csv`
   - `alvadesc_descriptors.csv`
-- `gwp_dataset/`: GWP100 values from IPCC AR6 report used for modeling (https://doi.org/10.23719/1529821)![image](https://github.com/user-attachments/assets/9eba0692-fadb-4598-b343-f121d3c1229d).
+- `gwp_dataset/`: GWP100 values from IPCC AR6 report used for modeling (https://doi.org/10.23719/1529821).
   
 ## Notes
 
