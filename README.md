@@ -15,21 +15,9 @@ This repository contains the input data used to develop deep learning models in 
   - `mordred_descriptors.csv`
   - `alvadesc_descriptors.csv`
 - `model_datasets/`: Training and testing dataset used for each ensemble model:
-  - `rdkit/`: RDKit dataset:
-    - `rdkit_train_input.csv`
-    - `rdkit_train_output.csv`
-    - `rdkit_test_input.csv`
-    - `rdkit_test_output.csv`
-  - `rdkit/`: Mordred dataset:
-    - `mordred_train_input.csv`
-    - `mordred_train_output.csv`
-    - `mordred_test_input.csv`
-    - `mordred_test_output.csv`
-  - `rdkit/`: AlvaDesc dataset:
-    - `alvadesc_train_input.csv`
-    - `alvadesc_train_output.csv`
-    - `alvadesc_test_input.csv`
-    - `alvadesc_test_output.csv`
+  - `rdkit/`: RDKit data
+  - `mordred/`: Mordred dataset:
+  - `alvadesc/`: AlvaDesc dataset:
 
 ## Notes
 
